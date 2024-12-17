@@ -6,7 +6,8 @@
 ## About Me:
 - 🔭 I’m currently working on: **Barangay Management System, Ren'Shoe E-commerce System**
 - 🌱 I’m currently learning: **Tailwind, React, Laravel**
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jaromohomrenze231@gmail.com)
+## 📫 How to reach me:
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?logo=gmail&logoColor=white&style=flat&fontWeight=bold)](mailto:jaromohomrenze231@gmail.com)
 - 😄 Trivia: **Alter ego**
 
 ## 🌐 Socials:
