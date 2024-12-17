@@ -4,9 +4,9 @@
 
 
 ## About Me:
-- 🔭 I’m currently working on: **Barangay Management System, Ren'Shoe E-commerce System**
-- 🌱 I’m currently learning: **Tailwind, React, Laravel**
-- 📫 How to reach me: [jaromohomrenze231@gmail.com](mailto:jaromohomrenze231@gmail.com)
+- 🔭 Currently working on: **Barangay Management System, Ren'Shoe E-commerce System**
+- 🌱 Learning: **Tailwind, React, Laravel**
+- 📫 Hit me up: [jaromohomrenze231@gmail.com](mailto:jaromohomrenze231@gmail.com)
 - 😄 Trivia: **Alter ego**
 
 ## 🌐 Socials:
