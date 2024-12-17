@@ -1,4 +1,4 @@
-<img src="(https://c4.wallpaperflare.com/wallpaper/63/561/256/edc-graphics-toyota-supra-toyota-jdm-wallpaper-preview.jpg)" alt="Banner" />
+<img src="https://github.com/basyonggg/basyonggg/blob/main/299492764_738251620614221_7798118274339425308_n.jpg" alt="Banner" style="width:100%;" />
 
 
 # Hi 👋, I'm [Therenz Jaromohom]
