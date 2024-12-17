@@ -1,12 +1,13 @@
 <img src="https://github.com/basyonggg/basyonggg/blob/main/299492764_738251620614221_7798118274339425308_n.jpg" alt="Banner" style="width:100%;" />
 
 
-# Hi 👋, I'm [Therenz Jaromohom]
+# Hi 👋, I'm Therenz Jaromohom
+
 
 ## About Me:
 - 🔭 I’m currently working on: **Barangay Management System, Ren'Shoe E-commerce System**
 - 🌱 I’m currently learning: **Tailwind, React, Laravel**
-- 📫 How to reach me: [Hit me Up](mailto:jaromohomrenze231@gmail.com)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jaromohomrenze231@gmail.com)
 - 😄 Trivia: Alter ego
 
 ## 🌐 Socials:
