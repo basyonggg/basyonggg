@@ -1,11 +1,11 @@
 <img src="https://github.com/basyonggg/basyonggg/blob/main/299492764_738251620614221_7798118274339425308_n.jpg" alt="Banner" style="width:100%;" />
 
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/basyonggg/basyonggg/blob/main/received_533078028190410.jpeg" alt="Profile Image" width="120" style="border-radius: 50%; margin-right: 20px;">
+
   <div>
     <h1>Hi 👋, I'm Therenz Jaromohom</h1>
-
+    <div style="display: flex; align-items: center;">
+  <img src="https://github.com/basyonggg/basyonggg/blob/main/received_533078028190410.jpeg" alt="Profile Image" width="120" style="border-radius: 50%; margin-right: 20px;">
     ## About Me:
     - 🔭 I’m currently working on: **Barangay Management System, Ren'Shoe E-commerce System**
     - 🌱 I’m currently learning: **Tailwind, React, Laravel**
