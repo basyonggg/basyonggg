@@ -3,6 +3,7 @@
 
 # Hi 👋, I'm Therenz Jaromohom
 
+<img src="https://github.com/basyonggg/basyonggg/blob/main/received_533078028190410.jpeg" alt="My Profile Image" width="100" style="border-radius: 50%;"/>
 
 ## About Me:
 - 🔭 I’m currently working on: **Barangay Management System, Ren'Shoe E-commerce System**
