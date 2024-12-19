@@ -1,6 +1,6 @@
 <img src="https://github.com/basyonggg/basyonggg/blob/main/299492764_738251620614221_7798118274339425308_n.jpg" alt="Banner" style="width:100%;" />
 
-#👋, I'm Therenz Jaromohom
+👋, I'm Therenz Jaromohom
 
 
 ## About Me:
