@@ -7,7 +7,7 @@
 - 🔭 Currently working on: **Barangay Management System, Ren'Shoe E-commerce System**
 - 🌱 Learning: **Tailwind, React, Laravel**
 - 📫 Hit me up: [jaromohomrenze231@gmail.com](mailto:jaromohomrenze231@gmail.com)
-- 😄 Trivia: **Alter ego**
+- 😄 Just call me: **shong**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%23000000.svg?logo=discord&logoColor=white&labelColor=5865F2&style=flat-square&fontWeight=bold)](https://discord.gg/5kzyzgWQ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&labelColor=1877F2&style=flat-square&fontWeight=bold)](https://www.facebook.com/itsbasyonggg.fk)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&labelColor=E4405F&style=flat-square&fontWeight=bold)](https://www.instagram.com/yozuou/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&labelColor=0077B5&style=flat-square&fontWeight=bold)](https://www.linkedin.com/in/therenz-jaromohom-177891237/)  
