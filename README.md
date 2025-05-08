@@ -4,7 +4,7 @@
 
 
 ## About Me:
-- 🔭 Working on: **Barangay Management System, Ren'Shoe E-commerce System**
+- 🔭 Working on: **Customer Credit Ledger, Student Graduate Tracker**
 - 🌱 Learning: **Tailwind, React, Laravel**
 - 📫 Hit me up: [jaromohomrenze231@gmail.com](mailto:jaromohomrenze231@gmail.com)
 - 😄 Just call me: **shong**
